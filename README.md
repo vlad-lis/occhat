@@ -1,35 +1,25 @@
 # occhat
 
-This template should help get you started developing with Vue 3 in Vite.
+Проект выложен по адресу https://vlad-lis.github.io/occhat/
 
-## Recommended IDE Setup
+## Запуск проекта
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. Клонировать репозиторий:
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```
+git@github.com:vlad-lis/occhat.git
 ```
 
-### Compile and Hot-Reload for Development
+2. Установить зависимости:
 
-```sh
+```
+npm i
+```
+
+3. Запустить проект:
+
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Проект запустится локально на http://localhost:5173/occhat/
